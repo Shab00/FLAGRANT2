@@ -1,7 +1,8 @@
 ```markdown
 # YouTube Analytics Project: FLAGRANT2 Channel
 
-## flagrant2_analytics.ipynb
+## flagrant2Analytics.ipynb
+## flagrant2AnalyticsPLayers.ipynb
 This Jupyter Notebook contains a comprehensive analysis of Flagrant2 videos, including data preprocessing, feature selection, normalization, and various visualizations to gain insights into the dataset.
 
 ### Table of Contents
