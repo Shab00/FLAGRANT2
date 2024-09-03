@@ -42,5 +42,35 @@ This code defines a function `get_model` that creates and compiles a neural netw
 
 ## requirements.txt
 Contains the list of required packages for running the Jupyter Notebook.
+
+
+# Key Metrics
+
+## Precision
+- For class 0: 0.95
+- For class 1: 0.97
+
+## Recall
+- For class 0: 0.97
+- For class 1: 0.95
+
+## F1-score
+- Both classes: 0.96
+
+## Support
+- Class 0: 72 instances
+- Class 1: 75 instances
+
+## Accuracy
+- 0.96
+
+## Macro avg
+- Precision, recall, and F1-score: 0.96
+
+## Weighted avg
+- Precision, recall, and F1-score: 0.96
+
+# Overall
+The model demonstrates excellent performance with high precision, recall, and F1-score for both classes. The accuracy of 0.96 indicates that the model is highly effective in classifying instances correctly.
 ```
 This README.md provides an overview of the YouTube analytics project for the FLAGRANT2 channel, detailing the content and purpose of each file in the repository.
