@@ -1,4 +1,3 @@
-```markdown
 # YouTube Analytics Project: FLAGRANT2 Channel
 
 ## flagrant2Analytics.ipynb
@@ -44,6 +43,11 @@ This code defines a function `get_model` that creates and compiles a neural netw
 ## requirements.txt
 Contains the list of required packages for running the Jupyter Notebook.
 
+# Learning Experience Using TensorFlow
+
+Although the dataset for this project consists of only a small number of videos from the Flagrant2 channel, I chose to implement a neural network model using TensorFlow as part of a learning experience. TensorFlow is a powerful library often used for more complex, large-scale machine learning problems. However, in this case, my goal was to gain hands-on experience with TensorFlow's architecture, model building, and performance evaluation, even though a simpler algorithm might have sufficed for this dataset.
+
+Through this project, I practiced key steps in the machine learning workflow, including data preprocessing, feature engineering, and model evaluation. While the choice of TensorFlow might be considered overkill for a small dataset, it served as an excellent platform to solidify my understanding of neural networks and model training, which can be applied to larger datasets and more complex problems in the future.
 
 # Key Metrics
 
@@ -73,5 +77,4 @@ Contains the list of required packages for running the Jupyter Notebook.
 
 # Overall
 The model demonstrates excellent performance with high precision, recall, and F1-score for both classes. The accuracy of 0.96 indicates that the model is highly effective in classifying instances correctly.
-```
 This README.md provides an overview of the YouTube analytics project for the FLAGRANT2 channel, detailing the content and purpose of each file in the repository.
